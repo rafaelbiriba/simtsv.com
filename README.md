@@ -1,4 +1,3 @@
-simtsv.com
+Site do congresso Sim, Todos Somos Vocacionados
 ==========
-
-Projeto do site simtsv.com (Sim Todos Somos Vocacionados)
+http://www.simtsv.com
